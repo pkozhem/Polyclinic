@@ -1,5 +1,6 @@
 <pre>
-This is a simple Polyclinic app, based on tkinter library user interface and using database to store diffenrent information.
+This is a simple Polyclinic app, based on tkinter library user interface 
+and using database to store diffenrent information.
 </pre>
 <pre>
 The app has following features:
@@ -13,5 +14,6 @@ The app has following features:
 </pre>
 <pre>
 P.S.
-Don't expect something difficult or super functional from this app because it was more exercisable than serious. Thanks.
+Don't expect something difficult or super functional from this app 
+because it was more exercisable than serious. Thanks.
 </pre>
